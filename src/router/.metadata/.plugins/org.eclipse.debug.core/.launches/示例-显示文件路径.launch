@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.ui.externaltools.ProgramLaunchConfigurationType">
+<stringAttribute key="org.eclipse.debug.ui.ATTR_CONSOLE_ENCODING" value="GB2312"/>
+<stringAttribute key="org.eclipse.ui.externaltools.ATTR_COMMAND_ID" value="org.eclipse.ui.externaltools.1505198114534"/>
+<stringAttribute key="org.eclipse.ui.externaltools.ATTR_LOCATION" value="echo"/>
+<stringAttribute key="org.eclipse.ui.externaltools.ATTR_TOOL_ARGUMENTS" value="文件名:  ${resource_name} &#10;&amp; echo 文件路径:  ${resource_loc} &#10;&amp; echo 文件所在目录:  ${container_loc} &#10;&amp; echo 文件所在项目路径:  ${project_loc}"/>
+</launchConfiguration>

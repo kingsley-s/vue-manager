@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench version="2.0">
+<workbenchAdvisor/>
+<window height="1080" maximized="true" width="1728" x="25" y="25">
+<fastViewData/>
+<perspectiveBar/>
+<coolbarLayout>
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="63" y="30"/>
+<coolItem id="com.pandora.ui.toolbar.file" itemType="typeToolBarContribution" x="201" y="30"/>
+<coolItem id="com.pandora.ui.toolbar.goto" itemType="typeToolBarContribution" x="232" y="30"/>
+<coolItem id="com.pandora.ui.toolbar.view" itemType="typeToolBarContribution" x="77" y="30"/>
+<coolItem id="com.pandora.ui.toolbar.run" itemType="typeToolBarContribution" x="111" y="30"/>
+<coolItem id="com.pandora.ui.toolbar.contentassistant" itemType="typeToolBarContribution" x="46" y="30"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="com.aptana.editor.js" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page focus="true" label="工作空间 － 开发视图">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="com.pandora.editor.ui.createapp" name="HBuilder入门" partName="HBuilder入门" title="HBuilder入门" tooltip="HBuilder入门" workbook="DefaultEditorWorkbook">
+<input factoryID="com.pandora.ui.welcomeEditorFactory" title="HBuilder入门" url="file:/E:/Hbuilder/plugins/com.pandora.ui_1.0.0.201706021741/content/getstart.html"/>
+</editor>
+<editor activePart="true" focus="true" id="com.aptana.editor.js" name="index.js" partName="index.js" title="index.js" tooltip="C:\Users\user\Documents\HBuilderProjects\vue-manager\src\router\index.js" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Users/user/Documents/HBuilderProjects/vue-manager/src/router/index.js"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.ui.navigator.ProjectExplorer" partName="项目管理器">
+<viewState CommonNavigator.LINKING_ENABLED="1" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0"/>
+</view>
+<view id="com.pandora.ui.views.Bindings" partName="快捷键列表">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ContentOutline" partName="大纲">
+<viewState/>
+</view>
+</views>
+<perspectives activePart="com.aptana.editor.js" activePerspective="com.aptana.ui.WebPerspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="com.aptana.ui.internal.WebPerspectiveFactory" id="com.aptana.ui.WebPerspective" label="开发视图"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="com.aptana.editor.html.actionSet3"/>
+<alwaysOnActionSet id="com.pandora.ui.search.actionSet"/>
+<alwaysOnActionSet id="com.pandora.ui.annotationNavigation.actionSet"/>
+<alwaysOnActionSet id="com.pandora.launcher.ui.launchActionSet"/>
+<alwaysOffActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOffActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOffActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOffActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<show_view_action id="com.pandora.view.browser.view.WebBrowserView"/>
+<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.search.ui.views.SearchView"/>
+<new_wizard_action id="com.pandora.projects.ui.wizards.NewHMobileProjectWizard"/>
+<new_wizard_action id="com.aptana.ui.wizards.NewAppProjectFromWechat"/>
+<new_wizard_action id="com.aptana.ui.wizards.NewWAP2AppProject"/>
+<new_wizard_action id="com.aptana.ui.wizards.NewWebProject"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="com.pandora.projects.ui.wizards.NewHtmlWizard"/>
+<new_wizard_action id="com.pandora.projects.ui.wizards.NewNViewWizard"/>
+<new_wizard_action id="com.pandora.projects.ui.wizards.NewJSWizard"/>
+<new_wizard_action id="com.pandora.projects.ui.wizards.NewCssWizard"/>
+<new_wizard_action id="com.pandora.projects.ui.files.wizards.NewASPWizard"/>
+<new_wizard_action id="com.pandora.projects.ui.files.wizards.NewASPXWizard"/>
+<new_wizard_action id="com.pandora.projects.ui.files.wizards.NewCOFFEEWizard"/>
+<new_wizard_action id="com.pandora.projects.ui.files.wizards.NewERBWizard"/>
+<new_wizard_action id="com.pandora.projects.ui.files.wizards.NewJSPWizard"/>
+<new_wizard_action id="com.pandora.projects.ui.wizards.NewJsonWizard"/>
+<new_wizard_action id="com.pandora.projects.ui.files.wizards.NewLESSWizard"/>
+<new_wizard_action id="com.pandora.projects.ui.wizards.NewPhpWizard"/>
+<new_wizard_action id="com.pandora.projects.ui.files.wizards.NewMarkDownWizard"/>
+<new_wizard_action id="com.pandora.projects.ui.files.wizards.NewPYizard"/>
+<new_wizard_action id="com.pandora.projects.ui.files.wizards.NewRBWizard"/>
+<new_wizard_action id="com.pandora.projects.ui.files.wizards.NewSASSWizard"/>
+<new_wizard_action id="com.pandora.projects.ui.files.wizards.NewSCSSWizard"/>
+<new_wizard_action id="com.pandora.projects.ui.files.wizards.NewTSWizard"/>
+<new_wizard_action id="com.pandora.projects.ui.wizards.NewTxtWizard"/>
+<new_wizard_action id="com.pandora.projects.ui.files.wizards.NewVueWizard"/>
+<new_wizard_action id="com.aptana.ui.wizards.new.file"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<view id="com.pandora.ui.views.Bindings"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="left">
+<folder activePageID="org.eclipse.ui.navigator.ProjectExplorer" appearance="2" expanded="2">
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="项目管理器"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="1278" ratioRight="426" relationship="2" relative="left">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.19953051" ratioLeft="340" ratioRight="1364" relationship="2" relative="left"/>
+<info folder="true" part="terminalArea" ratio="0.75" ratioLeft="741" ratioRight="247" relationship="4" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.console.ConsoleView" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@185d09b" ratio="0.7998534" ratioLeft="1091" ratioRight="273" relationship="2" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="com.pandora.ui.views.Bindings" label="快捷键列表"/>
+<page content="org.eclipse.ui.views.ContentOutline" label="大纲"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="com.pandora.ui.welcomeEditorFactory" id="com.pandora.editor.ui.createapp" title="HBuilder入门" url="file:/E:/Hbuilder/plugins/com.pandora.ui_1.0.0.201706021741/content/getstart.html"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" uri="file:/C:/Users/user/Documents/HBuilderProjects/vue-manager/src/router/index.js"/>
+</editors>
+<item historyLabel="HBuilder入门" index="0"/>
+<item active="true" historyLabel="index.js" index="1">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+<trimItem IMemento.internal.id="com.pandora.ui.searchbar"/>
+<trimItem IMemento.internal.id="com.pandora.ui.Perspective"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+<trimItem IMemento.internal.id="com.pandora.ui.openWith"/>
+<trimItem IMemento.internal.id="com.appcelerator.ui.trim"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" name="index.js" tooltip="C:\Users\user\Documents\HBuilderProjects\vue-manager\src\router\index.js">
+<persistable uri="file:/C:/Users/user/Documents/HBuilderProjects/vue-manager/src/router/index.js"/>
+</file>
+<file factoryID="com.pandora.ui.welcomeEditorFactory" id="com.pandora.editor.ui.createapp" name="HBuilder入门" tooltip="HBuilder入门">
+<persistable title="HBuilder入门" url="file:/E:/Hbuilder/plugins/com.pandora.ui_1.0.0.201706021741/content/getstart.html"/>
+</file>
+</mruList>
+</workbench>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.ui.externaltools.ProgramLaunchConfigurationType">
+<stringAttribute key="org.eclipse.debug.ui.ATTR_CONSOLE_ENCODING" value="GB2312"/>
+<stringAttribute key="org.eclipse.ui.externaltools.ATTR_COMMAND_ID" value="org.eclipse.ui.externaltools.1505198114550"/>
+<stringAttribute key="org.eclipse.ui.externaltools.ATTR_LOCATION" value="C:\WINDOWS\system32\explorer.exe"/>
+<stringAttribute key="org.eclipse.ui.externaltools.ATTR_TOOL_ARGUMENTS" value="/select,&quot;${resource_loc}&quot;"/>
+</launchConfiguration>
